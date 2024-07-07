@@ -17,9 +17,10 @@ Database: 'automatedIM_DB'
 Table: 'interns' 
 
 Structure of interns:
-
+![sql2](https://github.com/Khushiaggarwal710/automated-IM-whatsapp/assets/107229428/8848b1ed-25f3-4dbf-9950-cb850034d10d)
 
 Sample Data:
+![sql](https://github.com/Khushiaggarwal710/automated-IM-whatsapp/assets/107229428/03e248b3-3285-4ac4-81da-06157dfb8669)
 
 ## Step 4: Update localhost, username, password in connectivity.py
 mydb = mysql.connector.connect(
