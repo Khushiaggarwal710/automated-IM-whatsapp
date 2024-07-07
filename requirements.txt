@@ -1,0 +1,2 @@
+pywhatkit
+mysql-connector-python
