@@ -1,6 +1,7 @@
 # **Automate WhatsApp Messages for Efficient Intern Communication**
 
-Streamline your workflow by automating WhatsApp messages to interns who fill out your company form. This project eliminates manual effort, reduces duplication, and ensures seamless communication. With automation, you can focus on more critical tasks while keeping your interns informed and engaged.
+Streamline your workflow by automating WhatsApp messages to interns who fill out your company form. 
+This project eliminates manual effort, reduces duplication, and ensures seamless communication. With automation, you can focus on more critical tasks while keeping your interns informed and engaged.
 
 ### ``` Libraries used: pywhatkit, mysql-connector-python, datetime, threading  ```
 
